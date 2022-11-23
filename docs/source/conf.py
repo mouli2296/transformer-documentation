@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Feature Kit'
+copyright = '2021, Tiger Analytics'
+author = 'Tiger Analytics'
 
 release = '0.1'
 version = '0.1.0'

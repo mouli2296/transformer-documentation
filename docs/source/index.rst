@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Feature Kit's documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -15,6 +15,7 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+Lumache has its documentation hosted on Read the Docs.
 
 .. toctree::
 

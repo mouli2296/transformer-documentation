@@ -1,23 +1,17 @@
 Welcome to Feature Kit's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Feature Kit is the core of MLCORE platform where we have different types of transformers 
+which are used in Data Preparation stage of Machine Learning Pipeline.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+Check out the :doc:`transformers` section for further information on data transformers.
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
-Lumache has its documentation hosted on Read the Docs.
-
 .. toctree::
 
-   usage
+   transformers
    api

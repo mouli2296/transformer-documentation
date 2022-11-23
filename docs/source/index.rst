@@ -5,7 +5,7 @@ Feature Kit is the core of MLCORE platform where we have different types of tran
 which are used in Data Preparation stage of Machine Learning Pipeline.
 
 
-Check out the :doc:`transformers` section for further information on data transformers.
+Check out the :doc:`usage` section for further information on data transformers.
 
 .. note::
 
@@ -13,5 +13,5 @@ Check out the :doc:`transformers` section for further information on data transf
 
 .. toctree::
 
-   transformers
+   usage
    api
